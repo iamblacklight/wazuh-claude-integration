@@ -1,0 +1,2 @@
+# wazuh-claude-integration
+
