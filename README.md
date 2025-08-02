@@ -2,7 +2,8 @@
 
 This project provides a simple script to set up [Claude Desktop](https://github.com/aaddrick/claude-desktop-debian) alongside the [Wazuh MCP Server](https://github.com/gbrigandi/mcp-server-wazuh) on Ubuntu. Once installed, Claude can be used to interact with alerts from Wazuh via natural language.
 
-
+## Read the Medium article
+   [Here 📌](https://medium.com/@iamblacklight/bringing-ai-to-siem-my-experiment-with-wazuh-mcp-server-and-claude-desktop-09f2aa15165d)
 
 ## 🔧 What the Script Does
 
